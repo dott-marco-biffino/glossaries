@@ -1,0 +1,9 @@
+---
+title: "Glossario Data Science"
+author: "Marco Biffino"
+format: html
+---
+
+## Riconoscimenti
+
+Questo glossario è ispirato al lavoro di 
