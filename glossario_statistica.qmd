@@ -1,0 +1,78 @@
+---
+title: "Glossario Statistica"
+author: "Marco Biffino"
+lang: it
+format: html
+---
+
+## Glossario dei termini statistici
+
+Asimmetria
+: def
+
+Differenza relativa
+: d
+
+Incremento/decremento
+: d
+
+Indici di dispersione
+: Rappresentano una misura sintetica di quanto le unità statistiche sono diverse fra loro rispetto a un dato carattere che utilizzano l'informazione insita nell'ordinamento delle modalità propria dei caratteri qualitativi ordinali e di quelli quantitativi.
+
+Indici di eccedenza
+: d
+
+
+Distribuzione cumulativa
+: def
+
+Distribuzione di frequenza
+: Definizione
+
+Distribuzione di quantità
+: Definizione
+
+Eterogeneità
+: defi    
+
+Frequenza assoluta
+: Definizione
+
+Frequenza relativa
+: Definizione
+
+Omogeneità
+: definizione
+
+Rapporto di coesistenza
+: Data una qualunque distribuzione di frequenze (o quantità) è un rapporto fra la frequenza corrispondente a una modalità e quella corrispondente a un'altra modalità, eventualmente espresso in percentuale. In simboli $$ R^{coes}_{x_i \mid x_j} = \frac{n_{x_i}}{n_{x_j}} $$ Esempi: rapporto di mascolinità delle nascite, indice di vecchiaia, grado di copertura delle importazioni. NB.: A differenza dei rapporti di composizione, quelli di coesistenza possono assumere valori superiori all'unità (o a 100 se espressi in percentuale).
+
+Rapporto di composizione
+: Rapporto fra la frequenza (o quantità) riferita a una modalità di un carattere statistico e la numerosità totale (o quantità totale) di solito espresso in percentuale. In simboli $$ R^{comp}_x = \frac{n_x}{n}$$ NB.: 1) le frequenze relative e percentuali sono esempi di rapporti di composizione; 2) i R di composizione sono sempre inferiori o uguali a 1 (o a 100 se espressi in percentuale).
+
+Rapporto di derivazione
+: d
+
+Rapporto medio
+: d
+Numero indice
+: 
+
+Seriazione
+: def
+
+Serie
+: def
+
+Serie temporale (o S. storica)
+: def
+
+Serie territoriale (o S. geografica)
+: def
+Termine
+: Definizione
+
+## Riconoscimenti
+
+## Riferimenti bibliografici
+
